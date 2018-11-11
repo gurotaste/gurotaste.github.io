@@ -3,5 +3,5 @@ title: Guro taste
 description: 내가 다시 가 본 구로의 맛집.
 keywords: Guro, taste, 구로, 맛집
 author: gurotaste
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://gurotaste.github.io " # the base hostname & protocol for your site
